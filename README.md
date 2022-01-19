@@ -42,12 +42,12 @@ npm install webpack webpack-cli --save-dev
 
 You will need to add the `index.html` file and the `index.js` file:
 
-📦todo-vuejs
- ┣ 📂src
- ┃ ┗ 📜index.js
- ┣ 📜.gitignore
- ┣ 📜index.html
- ┣ 📜LICENSE
- ┣ 📜package-lock.json
- ┣ 📜package.json
- ┗ 📜README.md
+📦todo-vuejs  
+ ┣ 📂src  
+ ┃ ┗ 📜index.js  
+ ┣ 📜.gitignore  
+ ┣ 📜index.html  
+ ┣ 📜LICENSE  
+ ┣ 📜package-lock.json  
+ ┣ 📜package.json  
+ ┗ 📜README.md  
